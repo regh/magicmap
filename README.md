@@ -1,7 +1,7 @@
 # magicmap
 
-## Available options
- *
+ Available options
+ 
  * Map type: 	ROADMAP, SATELLITE, HYBRID, TERRAIN
  * Map styles: false, GRAYSCALE
  * Map Controls: Type, Zoom, StreetView, CustomCopyright
